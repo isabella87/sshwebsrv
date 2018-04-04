@@ -21,12 +21,12 @@
     <!--<finalName>FrameModel</finalName>-->
   <!--</build>-->
     <properties>
-        <!--<spring.version>5.0.4.RELEASE</spring.version>
-        <struts.version>2.5.16</struts.version>
-        <hibernate.version>5.0.4.Final</hibernate.version>-->
-        <spring.version>3.1.1.RELEASE</spring.version>
+        <spring.version>4.3.14.RELEASE</spring.version>
+        <hibernate.version>4.3.0.Final</hibernate.version>
+
+       <!-- <spring.version>3.1.1.RELEASE</spring.version>
+        <hibernate.version>3.6.9.Final</hibernate.version>-->
         <struts.version>2.3.4</struts.version>
-        <hibernate.version>3.6.9.Final</hibernate.version>
         <axis2.version>1.6.2</axis2.version>
         <mysql.version>5.1.9</mysql.version>
         <oracle.version>12.1.0.2</oracle.version>

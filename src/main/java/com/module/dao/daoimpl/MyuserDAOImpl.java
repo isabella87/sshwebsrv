@@ -5,7 +5,7 @@ import java.util.List;
 
 import com.module.bean.Myuser;
 import com.module.dao.MyuserDAO;
-import org.springframework.orm.hibernate3.support.HibernateDaoSupport;
+import org.springframework.orm.hibernate4.support.HibernateDaoSupport;
 
 public class MyuserDAOImpl extends HibernateDaoSupport implements MyuserDAO
 {
