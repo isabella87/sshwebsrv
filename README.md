@@ -1,1 +1,1 @@
-# sshwebsrv
+# sshwebsrv-应用ssh（xml配置版）及maven的web应用开发框架
